@@ -36,6 +36,7 @@ Data normalization means transforming all variables in the data to a specific ra
 ## Code
 
 * Parse CSV Data into a text file 
+
 ```python
 import csv
 
@@ -131,6 +132,8 @@ def load_data():
 ```
 
 * Neural Networks
+
+Using Stochastic Gradient Descent and backpropagation algorithm
 
 ```python
 
